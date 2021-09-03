@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064237339386",
+    "project_id": "spadework-final",
+    "storage_bucket": "spadework-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064237339386:android:20e52ccbaaeead490d6f43",
+        "android_client_info": {
+          "package_name": "com.example.spadework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064237339386-c6jet25i51nqdnt3n52ueqhuvd1roc63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spadework",
+            "certificate_hash": "bb1c785b9a14f39b6abacba119be1876f5f629cd"
+          }
+        },
+        {
+          "client_id": "1064237339386-hu5qk4rh5k7ic1353qiu2fldkkhp02op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzr-0y8BkKJANstwUwgtzGAhgSPDjZP7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064237339386-hu5qk4rh5k7ic1353qiu2fldkkhp02op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
